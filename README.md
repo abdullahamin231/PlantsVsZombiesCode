@@ -1,6 +1,7 @@
-# PvZ
+# Plants VS Zombies
+## Made by
+Created by Abdullah Amin and <a href="https://github.com/fsdev87">Mustafa Faraz</a>  as OOP(CS-1004) Project at FAST Islamabad.
 
-## Todo 
-- Rewrite Inventory.validMouseClick(), works fine but maza nai kara ra
-- Add zombie spawn sound, eat sound, random roar sound
-- 
+## Play Yourself!
+<a href="https://github.com/abdullahamin231/plantsVsZombies">Download from here.</a>
+[![Video Thumbnail](https://img.youtube.com/vi/dBhXeJdM7vU/0.jpg)](https://youtu.be/dBhXeJdM7vU?si=haNlCnBuz_lHj4Fo)
