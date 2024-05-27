@@ -1,5 +1,4 @@
 # Plants VS Zombies
-## Made by
 Created by Abdullah Amin and <a href="https://github.com/fsdev87">Mustafa Faraz</a>  as OOP(CS-1004) Project at FAST Islamabad.
 
 ## <a href="https://github.com/abdullahamin231/plantsVsZombies">Download from here.</a>
